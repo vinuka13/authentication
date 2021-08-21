@@ -1,0 +1,45 @@
+
+
+.container {
+  margin-top: 10%;
+}
+
+.col2 {
+  background: #440A67;
+  margin-left: 0
+}
+
+form {
+  margin-top: 100px;
+  text-align: left;
+}
+
+img {
+  height: 500px;
+  width: 500px;
+  margin-left: 145px;
+  margin-right: 0;
+
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+}
+
+a {
+  position: relative;
+  left: 40%
+}
+
+.btn {
+  position: relative;
+  left: 45%
+}
+
+
+.password {
+  position: relative;
+  left : 2%;
+}
